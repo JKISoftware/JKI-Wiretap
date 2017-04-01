@@ -2,7 +2,8 @@
 Worried about alternative data flowing through your wires? Having trouble with a probe that isn't producing any useful information due to an imbalance of power? Order a wiretap! The JKI Wiretap Toolkit uses microwave frequencies to transmit your data wirelessly. Can also be use with IMAQ wires for transmitting camera images.
 
 # Download / Install
-You can install the package using [VIPM](http://vipm.jki.net).
+You can install the following package using [VIPM](http://vipm.jki.net). Simply download and double-click the package file to install into LabVIEW.
+
 [jki_wiretap_toolkit_for_labview-1.0.0.12.vip](https://github.com/JKISoftware/JKI-Wiretap/releases/download/1.0/jki_wiretap_toolkit_for_labview-1.0.0.12.vip)
 
 # How To Use
