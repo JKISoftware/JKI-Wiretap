@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-03-31 22:50:15" Modified_Date="2017-04-01 00:14:30" Creator="Jim Kring" Comments="" ID="fc3a586ba8166ff8e3936558c5bd0d2d">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-03-31 22:50:15" Modified_Date="2017-04-01 00:34:32" Creator="Jim Kring" Comments="" ID="cb5bc66f4ec4e82c4506e2b861fcb9dc">
   <Library_General_Settings>
     <Package_File_Name>JKI_Wiretap_Toolkit_for_LabVIEW</Package_File_Name>
-    <Library_Version>1.0.0.11</Library_Version>
+    <Library_Version>1.0.0.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -125,16 +125,23 @@
         <Password/>
         <Locked_Only>false</Locked_Only>
       </Password_Overrides>
+      <Password_Overrides>
+        <Path>Toolkit VIs/JKI WireTap.vi</Path>
+        <Password/>
+        <Locked_Only>false</Locked_Only>
+      </Password_Overrides>
       <Namespace_Overrides>
         <Path>.</Path>
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Namespace_Overrides>
+        <Path>Toolkit VIs/JKI WireTap.vi</Path>
+        <Namespace_Type>Prefix</Namespace_Type>
+        <Namespace/>
+      </Namespace_Overrides>
       <Compile_Exclusions>
         <Path>PopupMenus/WireTap.llb</Path>
-      </Compile_Exclusions>
-      <Compile_Exclusions>
-        <Path>Toolkit VIs/JKI WireTap.vi</Path>
       </Compile_Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>LICENSE</License_Agreement_Filepath>
@@ -235,7 +242,7 @@
         <Path>source\Toolkit VIs\JKI WireTap.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0E959AAEB2DF1E6FC01861C9C67DEE60</GUID>
+      <GUID>40DB86FA361EFF340C3E7EC9BFB90295</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
