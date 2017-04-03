@@ -4,7 +4,7 @@ Worried about alternative data flowing through your wires? Having trouble with a
 # Download / Install
 You can install the following package using [VIPM](http://vipm.jki.net). Simply download and double-click the package file to install into LabVIEW.
 
-[jki_wiretap_toolkit_for_labview-1.0.1.14.vip](https://github.com/JKISoftware/JKI-Wiretap/releases/download/1.0/jki_wiretap_toolkit_for_labview-1.0.1.14.vip) (Requires [http://www.ni.com/download-labview/](LabVIEW 2016) or greater)
+[jki_wiretap_toolkit_for_labview-1.0.1.14.vip](https://github.com/JKISoftware/JKI-Wiretap/releases/download/1.0/jki_wiretap_toolkit_for_labview-1.0.1.14.vip) (Requires [LabVIEW 2016](http://www.ni.com/download-labview/) or greater)
 
 # How To Use
 The JKI Wiretap Toolkit for LabVIEW adds a Tap Wire menu right-click menu item for wires.
